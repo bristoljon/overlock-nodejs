@@ -1,0 +1,23 @@
+{
+  "name": "overlock-nodejs",
+  "version": "1.0.0",
+  "description": "The Overlock nodeJS client library for adding logging and other instrumentation to code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OverlockIoT/overlock-nodejs.git"
+  },
+  "keywords": [
+    "IoT",
+    "logging"
+  ],
+  "author": "Overlock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OverlockIoT/overlock-nodejs/issues"
+  },
+  "homepage": "https://github.com/OverlockIoT/overlock-nodejs#readme"
+}
