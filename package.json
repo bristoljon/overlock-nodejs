@@ -1,6 +1,6 @@
 {
   "name": "overlock-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Overlock nodeJS client library for adding logging and other instrumentation to code",
   "main": "index.js",
   "scripts": {
