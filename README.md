@@ -45,7 +45,7 @@ ol.log("This is as a different device", {logAs: "device123"})
 ol.log("This is associated with the other node too", {related: "device234"})
 
 // Log with a level
-ol.log("This is an error", {level: 100})
+ol.log("This is an error", {severity: 100})
 
 // Also with a pre-set level
 ol.error("This is an error")
@@ -58,7 +58,7 @@ Signature:
 
 * `msg` A string, which contains a message to debug
 * `opts` An object with keys:
-    * `level`: The log level (goes straight to agent API)
+    * `severity`: The log level (goes straight to agent API)
     * `logAs`: Log as if the message were from another node
     * `related`: Log with an association
 
